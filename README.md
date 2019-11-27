@@ -6,7 +6,7 @@ Start the application by typing "npm start" inside of both folders (if you start
 You'll need a MySQL server up and running as well.
 
 # MySQL database configuration
-By default, the app will try to listen to a MySQL database on localhost:3300 (with user: root & password: admin). You can easily config your MySQL database on('\back\util\cfg.js'). Sequelize will do the rest.<br/>
+By default, the app will try to listen to a MySQL database on localhost:3300 (with user: root & password: admin). You can easily config your MySQL database on "\back\util\cfg.js". Sequelize will do the rest.<br/>
 Note: The application will create a dummy user for testing (login: admin, password: admin), if you want to create new users you'll have to do that by hand on your MySQL database.
 
 <b>to-do:</b><br/>
