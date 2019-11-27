@@ -10,8 +10,8 @@ You'll need a MySQL server up and running as well.
 By default, the app will try to listen to a MySQL database on localhost:3300 (with user: root & password: admin). You can easily config your MySQL database on('\back\util\cfg.js'). Sequelize will do the rest.<br/>
 Note: The application will create a dummy user for testing (login: admin, password: admin), if you want to create new users you'll have to do that by hand on your MySQL database.
 
-# to-do
-- fix bug where list may not update after logging to another user
-- better user/login authetication
-- be able to register a new user on the front-end
-- calculate user's account balance with transactions made and show it on the interface
+to-do:<br/>
+-fix bug where list may not update after logging to another user<br/>
+-better user/login authetication<br/>
+-be able to register a new user on the front-end<br/>
+-calculate user's account balance with transactions made and show it on the interface<br/>
