@@ -1,4 +1,3 @@
-# bank-statement
 Made with Express and React.<br/>
 
 # installation
