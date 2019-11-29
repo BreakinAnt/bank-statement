@@ -1,6 +1,6 @@
 Made with Express and React.<br/>
 
-# installation
+# Installation
 - Inside of each folder, type "npm install" on your terminal to install the necessary modules.<br/>
 - Start the application by typing "npm start" inside of both folders (if you start the React(/front) server before Express(/back), make sure to update the "http://localhost:3000/" page).<br/>
 - You'll need a MySQL server up and running as well.
