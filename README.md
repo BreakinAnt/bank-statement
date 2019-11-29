@@ -1,9 +1,9 @@
 Made with Express and React.<br/>
 
 # installation
-Inside of each folder, type "npm install" on your terminal to install the necessary modules.<br/>
-Start the application by typing "npm start" inside of both folders (if you start the React(/front) server before Express(/back), make sure to update the "http://localhost:3000/" page).<br/>
-You'll need a MySQL server up and running as well.
+- Inside of each folder, type "npm install" on your terminal to install the necessary modules.<br/>
+- Start the application by typing "npm start" inside of both folders (if you start the React(/front) server before Express(/back), make sure to update the "http://localhost:3000/" page).<br/>
+- You'll need a MySQL server up and running as well.
 
 # MySQL database configuration
 By default, the app will try to listen to a MySQL database on localhost:3300 (with user: root & password: admin). You can easily config your MySQL database on "\back\util\cfg.js". Sequelize will do the rest.<br/>
