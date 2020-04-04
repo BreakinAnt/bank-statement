@@ -8,9 +8,3 @@ Made with Express and React.<br/>
 # MySQL database configuration
 By default, the app will try to listen to a MySQL database on localhost:3300 (with user: root & password: admin). You can easily config your MySQL database on "\back\util\cfg.js". Sequelize will do the rest.<br/>
 Note: The application will create a dummy user for testing (login: admin, password: admin), if you want to create new users you'll have to do that by hand on your MySQL database.
-
-<b>to-do:</b><br/>
--fix bug where list may not update after logging to another user<br/>
--better user/login authetication<br/>
--be able to register a new user on the front-end<br/>
--calculate user's account balance with transactions made and show it on the interface<br/>
